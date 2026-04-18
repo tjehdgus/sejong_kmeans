@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 # Google Geocoding API 키
-API_KEY = 'AIzaSyDfXHrCsrAFuw1WQrF5B5-Df9wb7kDRjIs'
+API_KEY = ''
 
 # 주소를 입력 받아 위도와 경도를 반환하는 함수
 def get_lat_lon(address):
