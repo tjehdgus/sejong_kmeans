@@ -4,7 +4,6 @@
 
 
 ## 📂 발표자료
-<img src="https://raw.githubusercontent.com/tjehdgus/sejong_kmeans/main/images/cover.png" alt="수자원공사 공모전 프로젝트" width="500">
 
 프로젝트의 자세한 내용은 발표자료에서 확인할 수 있습니다:  
 - [📂 발표자료 PDF](./docs/세종시_공모전_최종.pdf)
