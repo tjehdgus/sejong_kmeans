@@ -17,7 +17,7 @@ center_data = pd.read_csv(center_file_path)
 center_lat = center_data['latitude'].mean()
 center_lon = center_data['longitude'].mean()
 
-gmap = gmplot.GoogleMapPlotter(center_lat, center_lon, 12, apikey='AIzaSyDfXHrCsrAFuw1WQrF5B5-Df9wb7kDRjIs')
+gmap = gmplot.GoogleMapPlotter(center_lat, center_lon, 12, apikey='')
 
 for file in file_paths:
     data = pd.read_csv(file)
