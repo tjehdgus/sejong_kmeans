@@ -37,7 +37,7 @@ filtered_df = pd.concat([filtered_df_1, filtered_df_2])
 map_center_lat = (min(min_lat_1, min_lat_2) + max(max_lat_1, max_lat_2)) / 2
 map_center_lon = (min(min_lon_1, min_lon_2) + max(max_lon_1, max_lon_2)) / 2
 
-gmap = gmplot.GoogleMapPlotter(map_center_lat, map_center_lon, 13, apikey='AIzaSyDfXHrCsrAFuw1WQrF5B5-Df9wb7kDRjIs')
+gmap = gmplot.GoogleMapPlotter(map_center_lat, map_center_lon, 13, apikey='')
 
 latitudes = []
 longitudes = []
